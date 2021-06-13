@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="16" class="java.beans.XMLDecoder">
+ <object class="Computer">
+  <void property="brand">
+   <string>Lenovo</string>
+  </void>
+  <void property="series">
+   <string>B</string>
+  </void>
+  <void property="system">
+   <string>Windows</string>
+  </void>
+  <void property="year">
+   <int>2010</int>
+  </void>
+ </object>
+</java>
